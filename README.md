@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @hiddenghost9737
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hiddenghost9737/hiddenghost9737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+git install https://github.com/hiddenghost9737/hiddenghost9737.git</br>
+cf hiddenghost9737<br>
+bash setup.sh<br>
+python3 h_ghost.py<br
